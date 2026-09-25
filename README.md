@@ -1,8 +1,8 @@
 # AltGDA-code
 
-> This repo contains the code for the following paper:
+This repo contains the code for the following paper:
 
-
+> Tianlong Nan, Garud Iyengar, Christian Kroer, and Shuvomoy Das Gupta. “AltGDA Achieves Global \(O(1/T)\) Ergodic Convergence in Matrix Games.” 2026.
 
 ## Repository contents
 
