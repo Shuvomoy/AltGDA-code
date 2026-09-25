@@ -1,0 +1,2 @@
+range_group,shard_index,start_N,end_N,predicted_seconds,predicted_hours,over_two_hours,fit_exponent,fit_scale,predicted_solves_per_N,safety_factor,plan_source
+5-30,1,5,30,974.4413735460228,0.27067815931833966,false,3.731571117687198,2.8969485857576174e-7,26.0,2.0,pilot_loglog
