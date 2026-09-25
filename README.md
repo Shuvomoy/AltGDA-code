@@ -1,9 +1,8 @@
 # AltGDA-code
 
-> 
+> This repo contains the code for the following paper:
 
-The paper proves a dimension-free global `O(1/T)` ergodic convergence rate for
-alternating gradient descent–ascent (AltGDA) in finite matrix games. 
+
 
 ## Repository contents
 
