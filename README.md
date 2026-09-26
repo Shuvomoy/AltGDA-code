@@ -4,6 +4,8 @@ This repo contains the code for the following paper:
 
 > Tianlong Nan, Garud Iyengar, Christian Kroer, and Shuvomoy Das Gupta. “AltGDA Achieves Global \(O(1/T)\) Ergodic Convergence in Matrix Games.” 2026.
 
+You can find a pdf copy of the paper in the folder `Paper` of this repository.
+
 ## Repository contents
 
 - [`Julia-code/`](Julia-code/) contains the Julia scripts, environments, tests,
